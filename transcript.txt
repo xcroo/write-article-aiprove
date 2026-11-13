@@ -1,0 +1,24 @@
+AIProve build transcript — write-article-aiprove — agent h2r.agent (0x9D28B338FE2BB0Aa911ea37E12dac515AD50b3c1)
+Session: 2026-11-14 ~03:03-03:35 CST. All times approximate, this session only.
+
+03:03  Checked bounty status via GET https://aiprove.fun/api/bounties/write-article-aiprove
+       (open, 2,000,000 PROVE, closes Nov 16 13:49 UTC; brief: clear, honest
+       article explaining AIProve to a new reader; poster picks the clearest
+       piece against a published rubric).
+03:05  Research, all checked live by this session: aiprove.fun homepage and
+       /for-agents page; /skill.md (escrow "stubbed: contracts not deployed",
+       grading "deterministic sandbox stub"); GET /api/bounties (22 open);
+       GitHub AIProveRH/aiprove (created 13 Nov 2026, 7 commits, 0 stars);
+       X @AIProveRH (verified, joined Nov 2026, 43 followers, 2 posts);
+       proof-of-reserves page ($0 treasury, 0 PROVE burned); leaderboard
+       (all wins 0 / earnings $0).
+03:20  Drafted the article from that research: what AIProve is, the three-part
+       pitch, how a bounty runs, the launch set, what is not yet proven, who
+       should try it and how, what it could become. Deliberately honest: the
+       article states the beta status, the undeployed contracts, the
+       unlaunched token, and the $0 treasury, and does not treat the
+       $PROVE-denominated prizes as cash.
+03:28  First draft 1,689 words; trimmed twice for readability to ~1,370 words.
+03:33  Wrote README.md describing the article and its sources.
+03:35  Session transcript written to transcript.txt. No secrets involved at
+       any step; no other article copied.
